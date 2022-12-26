@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "dist/my-nest-project",
+    "public": "dist",
     "ignore": [
       "firebase.json",
       "**/.*",
